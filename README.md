@@ -1,4 +1,4 @@
-# Python Projects 🐍
+# Python Projects 🐍 
 
 A collection of simple, beginner-friendly Python mini-projects built for practice and learning purposes.
 
